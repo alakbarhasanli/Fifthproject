@@ -1,0 +1,1006 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\FifthProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\travel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\travel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\extensions\\serviceextensionforbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\extensions\\serviceextensionforbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\validations\\travelvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\travelvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\dtos\\travelcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\travelcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\validations\\authvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\authvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\entities\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entities\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\services\\implementations\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\implementations\\travelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\helpers\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\repositories\\implementations\\travelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\implementations\\travelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\validations\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\validations\\categoryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\travel\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\travel\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\travel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\travel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\travel\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\travel\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\category\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\category\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\extensions\\serviceextensionsfordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\extensions\\serviceextensionsfordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\fifthproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3B02E53-DCC6-442D-82FD-6F399778481A}|FifthProject\\FifthProject.csproj|solutionrelative:fifthproject\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\dtos\\registerauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\registerauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\dtos\\loginauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\dtos\\loginauthdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\services\\abstractions\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\abstractions\\itravelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\profiles\\travelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\travelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02519F4-6E7A-4E7E-AD4F-200A24D580D6}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\repositories\\abstractions\\itravelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\itravelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\contexts\\fifthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\contexts\\fifthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\helpers\\getconnectionstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\helpers\\getconnectionstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|c:\\users\\classtime\\source\\repos\\fifthproject\\project.dal\\migrations\\20250117104717_alltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7BF303-CA2F-4A7B-803F-993384DC6076}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\migrations\\20250117104717_alltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TravelCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\DTOs\\TravelCreateDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\TravelCreateDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\DTOs\\TravelCreateDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\TravelCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:09:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TravelController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Controllers\\TravelController.cs",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Controllers\\TravelController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Controllers\\TravelController.cs*",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Controllers\\TravelController.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:35:21.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:21:47.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Travel\\Create.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Travel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Travel\\Create.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Travel\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:25:10.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TravelValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Validations\\TravelValidation.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Validations\\TravelValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Validations\\TravelValidation.cs",
+              "RelativeToolTip": "Project.BL\\Validations\\TravelValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:04:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Program.cs",
+              "RelativeDocumentMoniker": "FifthProject\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Program.cs",
+              "RelativeToolTip": "FifthProject\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:04:35.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceExtensionForBL.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Extensions\\ServiceExtensionForBL.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Extensions\\ServiceExtensionForBL.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Extensions\\ServiceExtensionForBL.cs",
+              "RelativeToolTip": "Project.BL\\Extensions\\ServiceExtensionForBL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:01:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:24:49.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:24:16.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FifthProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FifthProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:18:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FifthProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FifthProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:15:25.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Validations\\AuthValidation.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Validations\\AuthValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Validations\\AuthValidation.cs",
+              "RelativeToolTip": "Project.BL\\Validations\\AuthValidation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:11:10.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\DTOs\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\DTOs\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:08:45.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Travel.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Entities\\Travel.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Entities\\Travel.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Entities\\Travel.cs",
+              "RelativeToolTip": "Project.DAL\\Entities\\Travel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:31:57.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "Project.DAL\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:37:11.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Project.DAL\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:09:54.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Project.DAL\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:11:15.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:49:40.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "FifthProject\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:57:37.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "FifthProject\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:57:29.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FifthProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAiwKkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:45:05.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FifthProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:46:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FifthProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:43:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Profiles\\AuthProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Profiles\\AuthProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Profiles\\AuthProfile.cs",
+              "RelativeToolTip": "Project.BL\\Profiles\\AuthProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:10:12.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:33:20.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwv1IAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:33:42.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TravelService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Implementations\\TravelService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Implementations\\TravelService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Implementations\\TravelService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Implementations\\TravelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:33:54.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Helpers\\FileManager.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Helpers\\FileManager.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Helpers\\FileManager.cs",
+              "RelativeToolTip": "Project.BL\\Helpers\\FileManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:13:28.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvzoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:49:20.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TravelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Implementations\\TravelRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Implementations\\TravelRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Implementations\\TravelRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Implementations\\TravelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:49:30.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Validations\\CategoryValidation.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Validations\\CategoryValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Validations\\CategoryValidation.cs",
+              "RelativeToolTip": "Project.BL\\Validations\\CategoryValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:01:55.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Travel\\Update.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Travel\\Update.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Travel\\Update.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Travel\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:25:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Travel\\Index.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Travel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Travel\\Index.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Travel\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:25:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:21:58.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Travel\\Info.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Travel\\Info.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Travel\\Info.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Travel\\Info.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:25:38.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Category\\Info.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:22:10.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:23:30.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:22:04.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\register.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\register.html",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\register.html",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\register.html",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwFkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-17T12:57:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:23:47.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAACIBAAAAAAAAAADwv1oBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:23:56.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\MVC\\Bilet-18\\startbootstrap-sb-admin-2\\index.html",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAAGwBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-17T12:46:25.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ServiceExtensionsForDAL.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Extensions\\ServiceExtensionsForDAL.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Extensions\\ServiceExtensionsForDAL.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Extensions\\ServiceExtensionsForDAL.cs",
+              "RelativeToolTip": "Project.DAL\\Extensions\\ServiceExtensionsForDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:18:00.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FifthProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FifthProject\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:23:41.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FifthProject\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FifthProject\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-17T12:21:39.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FifthProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\FifthProject\\appsettings.json",
+              "RelativeToolTip": "FifthProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T10:12:15.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterAuthDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\DTOs\\RegisterAuthDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\RegisterAuthDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\DTOs\\RegisterAuthDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\RegisterAuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:05:51.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginAuthDto.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\DTOs\\LoginAuthDto.cs",
+              "RelativeDocumentMoniker": "Project.BL\\DTOs\\LoginAuthDto.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\DTOs\\LoginAuthDto.cs",
+              "RelativeToolTip": "Project.BL\\DTOs\\LoginAuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:07:04.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:25:13.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:25:32.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ITravelService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Abstractions\\ITravelService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Abstractions\\ITravelService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Services\\Abstractions\\ITravelService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Abstractions\\ITravelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:25:53.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TravelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Profiles\\TravelProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Profiles\\TravelProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Profiles\\TravelProfile.cs",
+              "RelativeToolTip": "Project.BL\\Profiles\\TravelProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:12:23.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Project.BL\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:11:41.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ITravelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Abstractions\\ITravelRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\ITravelRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Abstractions\\ITravelRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\ITravelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:48:57.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:49:09.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:48:38.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250117104717_AllTables.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Migrations\\20250117104717_AllTables.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20250117104717_AllTables.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Migrations\\20250117104717_AllTables.cs",
+              "RelativeToolTip": "Project.DAL\\Migrations\\20250117104717_AllTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:47:17.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FifthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Contexts\\FifthDbContext.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Contexts\\FifthDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Contexts\\FifthDbContext.cs",
+              "RelativeToolTip": "Project.DAL\\Contexts\\FifthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:08:23.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetConnectionStr.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Helpers\\GetConnectionStr.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Helpers\\GetConnectionStr.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\FifthProject\\Project.DAL\\Helpers\\GetConnectionStr.cs",
+              "RelativeToolTip": "Project.DAL\\Helpers\\GetConnectionStr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:13:54.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

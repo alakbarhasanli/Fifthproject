@@ -1,0 +1,51 @@
+﻿@model TravelCreateDto
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title">Title</label>
+        <input class="form-control" asp-for="Title">
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input class="form-control" asp-for="Description">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MinimumPrice">MinimumPrice</label>
+        <input class="form-control" asp-for="MinimumPrice">
+        <span asp-validation-for="MinimumPrice" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MaximumPrice">MaximumPrice</label>
+        <input class="form-control" asp-for="MaximumPrice">
+        <span asp-validation-for="MaximumPrice" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Rating">Rating</label>
+        <input class="form-control" asp-for="Rating">
+        <span asp-validation-for="Rating" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="RatingCount">RatingCount</label>
+        <input class="form-control" asp-for="RatingCount">
+        <span asp-validation-for="RatingCount" class="text-danger"></span>
+    </div>
+
+
+
+    <div class="form-group">
+        <label asp-for="TravelPhoto" class="control-label"></label>
+        <input class="form-control" asp-for="TravelPhoto" type="file">
+        <span asp-validation-for="TravelPhoto" class="text-danger"></span>
+    </div>
+    <select class="form-select" asp-for="CategoryId" asp-items="new SelectList(ViewBag.Category ,nameof(Category.Id),nameof(Category.Title))">
+        <option selected>Choose Category</option>
+
+    </select>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+
