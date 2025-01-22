@@ -29,6 +29,7 @@ namespace Project.BL.Extensions
             service.AddValidatorsFromAssembly(typeof(AuthValidation).Assembly);
             service.AddValidatorsFromAssembly(typeof(CategoryValidation).Assembly);
             service.AddValidatorsFromAssembly(typeof(TravelValidation).Assembly);
+            service.AddValidatorsFromAssembly(typeof(LoginValidation).Assembly);
             service.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters();
 
         }

@@ -28,7 +28,10 @@ namespace Project.DAL.Repositories.Implementations
 
         public void Delete(T entity)
         {
+
             Table.Remove(entity);
+            _context.Entry(entity).State = EntityState.Deleted;
+
         }
 
         public async Task<ICollection<T>> GetAllAsync()
@@ -39,7 +42,7 @@ namespace Project.DAL.Repositories.Implementations
         public async Task<T> GetOneByIdAsync(int id)
         {
             T? entity = await Table.FirstOrDefaultAsync(e => e.Id == id);
-            if (entity == null) 
+            if(entity==null)
             {
                 throw new Exception("entity not found");
             }

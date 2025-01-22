@@ -1,0 +1,23 @@
+﻿@model DoctorCreateDto
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name">Name</label>
+        <input class="form-control" asp-for="Name">
+        <span asp-validation-for="Name" class="text-danger text-center"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Department">Department</label>
+        <input class="form-control" asp-for="Department">
+        <span asp-validation-for="Department" class="text-danger text-center"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Photo">Photo</label>
+        <input class="form-control" asp-for="Photo" type="file">
+        <span asp-validation-for="Photo" class="text-danger text-center"></span>
+    </div>
+    <select class="form-select" asp-for="CategoryId" asp-items="new SelectList(ViewBag.Category,nameof(Category.Id),nameof(Category.Title))">
+        <option selected>Category</option>
+    </select>
+    <p class="text-danger text-center">@Html.ValidationMessage("CustomError")</p>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

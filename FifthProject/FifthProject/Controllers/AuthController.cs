@@ -12,7 +12,12 @@ namespace FifthProject.Controllers
         {
             _service = service;
         }
+        public IActionResult Register()
+        {
 
+            return View();
+        }
+        [HttpPost]
         public async Task<IActionResult> Register(RegisterAuthDto registerAuthDto)
         {
             if (ModelState.IsValid)
@@ -22,6 +27,12 @@ namespace FifthProject.Controllers
             }
             return View(registerAuthDto);
         }
+        public IActionResult Login()
+        {
+
+            return View();
+        }
+        [HttpPost]
         public async Task<IActionResult> Login(LoginAuthDto loginAuthDto)
         {
             if (ModelState.IsValid)

@@ -28,6 +28,12 @@ namespace FifthProject.Areas.admin.Controllers
             }
             return View(oneCategory);
         }
+        public IActionResult Create()
+        {
+
+            return View();
+        }
+        [HttpPost]
         public async Task<IActionResult> Create(CategoryCreateDto categoryCreateDto)
         {
             if (ModelState.IsValid)
@@ -37,6 +43,13 @@ namespace FifthProject.Areas.admin.Controllers
             }
             return View(categoryCreateDto);
         }
+        [HttpGet]
+        public IActionResult Update()
+        {
+         
+            return View();
+        }
+        [HttpPost]
         public async Task<IActionResult> Update(CategoryCreateDto categoryCreateDto, int id)
         {
             if (ModelState.IsValid)
@@ -53,7 +66,7 @@ namespace FifthProject.Areas.admin.Controllers
            await _service.DeleteAsync(id);
             
 
-            return View("Index");
+            return RedirectToAction("Index");
         }
 
     }

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Project.BL.DTOs;
 using Project.BL.Services.Abstractions;
 using Project.DAL.Contexts;
+using Project.DAL.Exceptions;
 
 namespace FifthProject.Areas.admin.Controllers
 {
@@ -35,7 +36,7 @@ namespace FifthProject.Areas.admin.Controllers
 
         public IActionResult Create()
         {
-            ViewBag.Category = _context.categories;
+            ViewBag.Category = _context.categories; 
             return View();
         }
 
@@ -50,16 +51,34 @@ namespace FifthProject.Areas.admin.Controllers
             }
             return View(travelCreateDto);
         }
+        public IActionResult Update()
+        {
+            ViewBag.Category = _context.categories;
+            return View();
+        }
+        [HttpPost]
         public async Task<IActionResult> Update(TravelCreateDto travelCreateDto, int id)
         {
             ViewBag.Category = _context.categories;
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
+            {
+                return View(travelCreateDto);
+            }
+            try
             {
                 await _service.UpdateAsync(travelCreateDto, id);
-                
-                return RedirectToAction("Index");
+                return RedirectToAction("index");
             }
-            return View(travelCreateDto);
+            catch(TravelNotFound ex)
+            {
+                ModelState.AddModelError("CustomError", ex.Message);
+                return View(travelCreateDto);
+            }
+            catch (Exception )
+            {
+                ModelState.AddModelError("CustomError", "Something went Wrong");
+                return View(travelCreateDto);
+            }
         }
         public async Task<IActionResult> Delete(int id)
         {
@@ -68,7 +87,7 @@ namespace FifthProject.Areas.admin.Controllers
            await _service.DeleteAsync(id);
             
 
-            return View("Index");
+            return RedirectToAction("Index");
         }
     }
 }

@@ -76,17 +76,6 @@ namespace Project.BL.Services.Implementations
         public async Task<bool> UpdateAsync(TravelCreateDto travelCreateDto, int id)
         {
             Travel? travel = _mapper.Map<Travel>(travelCreateDto);
-            if (travel == null)
-            {
-                throw new Exception(" Travel Not Found");
-
-            }
-            if (travelCreateDto.TravelPhoto != null)
-            {
-                string webpath = _env.WebRootPath;
-                string filename = await travelCreateDto.TravelPhoto.ImageUpload(webpath, "Upload", "Images");
-                travel.ImageUrl = filename;
-            }
             travel.Id = id;
             var oneTravel = await _repo.GetOneByIdAsync(id);
             if (oneTravel == null)
@@ -94,6 +83,18 @@ namespace Project.BL.Services.Implementations
                 throw new Exception("Travel Not Found");
 
             }
+            if (travel == null)
+            {
+                throw new Exception(" Travel Not Found");
+
+            }
+            if (travel.TravelPhoto != null)
+            {
+                string webpath = _env.WebRootPath;
+                string filename = await travel.TravelPhoto.ImageUpload(Path.Combine(webpath, "Upload", "Images"));
+                travel.ImageUrl = filename;
+            }
+            
             _repo.Update(travel);
             await _repo.SaveChangesAsync();
             return true;
